@@ -4,7 +4,7 @@ This is a one-page responsive landing page created using HTML5 and CSS3 for the 
 
 ## Live Website
 
-https://abhi941331-alt.github.io/MainCraft/
+[https://abhi941331-alt.github.io/MainCraft/](https://abhi941331-alt.github.io/MainCraft-Task-1/)
 
 ## Features
 
